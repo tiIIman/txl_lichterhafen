@@ -16,7 +16,6 @@ Folgende Dateien sind enthalten:
 - `daten_anreichern.ipynb`: Jupyter Notebook zur Anreicherung der Flugdaten mit zusätzlichen Informationen
 - `liftoff_calculation.ipynb`: Jupyter Notebook mit der zugrundeliegenden Berechnung der Startsimulation inkl. eines Graphen
 - `txl_abfluege_2019_infos.csv`: CSV-Datei mit zusätzlichen Informationen zu den Flugdaten
-- `visualisierung.ino`: Arduino-Code zur Visualisierung der Flugdaten
 
 Quelle der Flugdaten ist das [OpenSky Network](https://opensky-network.org/).
 Um deren API nutzen zu können, muss man sich ein kostenloses Konto anlegen.
