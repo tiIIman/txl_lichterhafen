@@ -10,9 +10,11 @@ das den Charakter von TXL bewahrt und sichtbar macht.
 Dieses Repository enthält den Code, um die Flugdaten zu beschaffen und über den Arduino zu visualisieren.
 
 Folgende Dateien sind enthalten:
+- `LiftoffAnimation`: Der Ordner mit der gleichnamigen Datei ist das Ardunio Projekt und der Code, der auf dem Arduino ausgeführt wird.
 - `daten_abrufen.py`: Python-Skript zum Abrufen der Flugdaten vom OpenSky Network
 - `txl_abfluege_2019.csv`: CSV-Datei mit den Flugdaten des Jahres 2019
 - `daten_anreichern.ipynb`: Jupyter Notebook zur Anreicherung der Flugdaten mit zusätzlichen Informationen
+- `liftoff_calculation.ipynb`: Jupyter Notebook mit der zugrundeliegenden Berechnung der Startsimulation inkl. eines Graphen
 - `txl_abfluege_2019_infos.csv`: CSV-Datei mit zusätzlichen Informationen zu den Flugdaten
 - `visualisierung.ino`: Arduino-Code zur Visualisierung der Flugdaten
 
